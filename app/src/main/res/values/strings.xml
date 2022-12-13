@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MainListingApp</string>
+    <string name="title_home">Latest Listings</string>
+    <string name="title_dashboard">Watchlist</string>
+    <string name="title_notifications">My Trade Me</string>
+    <string name="hi">hi</string>
+    <string name="message">Hello There</string>
+    <string name="browse">Browse</string>
+</resources>
