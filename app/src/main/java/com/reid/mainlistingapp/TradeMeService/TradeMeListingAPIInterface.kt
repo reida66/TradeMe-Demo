@@ -1,4 +1,4 @@
-package com.reid.mainlistingapp.trademeservice
+package com.reid.mainlistingapp.TradeMeService
 
 import com.reid.mainlistingapp.Models.LatestListingResponse
 import retrofit2.Response

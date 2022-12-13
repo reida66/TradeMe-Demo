@@ -1,4 +1,4 @@
-package com.reid.mainlistingapp.trademeservice
+package com.reid.mainlistingapp.TradeMeService
 
 import com.reid.mainlistingapp.Adaptor.ListingAdapter
 import com.reid.mainlistingapp.Models.Listing

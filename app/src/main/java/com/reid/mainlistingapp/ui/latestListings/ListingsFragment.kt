@@ -11,7 +11,7 @@ import com.reid.mainlistingapp.Adaptor.ListingAdapter
 import com.reid.mainlistingapp.Models.Listing
 import com.reid.mainlistingapp.R
 import com.reid.mainlistingapp.databinding.FragmentLatestListingsBinding
-import com.reid.mainlistingapp.trademeservice.TradeMeService
+import com.reid.mainlistingapp.TradeMeService.TradeMeService
 
 class ListingsFragment : Fragment() {
 
